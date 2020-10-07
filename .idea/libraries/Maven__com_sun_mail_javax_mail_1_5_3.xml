@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.sun.mail:javax.mail:1.5.3">
     <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/bin/D:/maven/com/sun/mail/javax.mail/1.5.3/javax.mail-1.5.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/project/apache-maven-3.6.3/repository/com/sun/mail/javax.mail/1.5.3/javax.mail-1.5.3.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$APPLICATION_HOME_DIR$/bin/D:/maven/com/sun/mail/javax.mail/1.5.3/javax.mail-1.5.3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/project/apache-maven-3.6.3/repository/com/sun/mail/javax.mail/1.5.3/javax.mail-1.5.3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$APPLICATION_HOME_DIR$/bin/D:/maven/com/sun/mail/javax.mail/1.5.3/javax.mail-1.5.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/project/apache-maven-3.6.3/repository/com/sun/mail/javax.mail/1.5.3/javax.mail-1.5.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
